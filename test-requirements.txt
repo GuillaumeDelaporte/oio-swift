@@ -1,0 +1,4 @@
+nose
+python-swiftclient
+mock>=1.0
+six
